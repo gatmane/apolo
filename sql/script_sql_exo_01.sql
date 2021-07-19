@@ -63,7 +63,8 @@ insert into GAT_EPREUVE ( num_etudiant ,code_matiere ,Date_exam ,note) values (1
 insert into GAT_EPREUVE ( num_etudiant ,code_matiere ,Date_exam ,note) values (1004 ,11 ,'03/02/2016' ,18);
 insert into GAT_EPREUVE ( num_etudiant ,code_matiere ,Date_exam ,note) values (1004 ,12 ,'17/03/2016' ,13);
 
-insert pour le moment
+insert pour le moment des modification
+
 
 
 
